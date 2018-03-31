@@ -1,0 +1,2 @@
+# AI
+basic algorithoms
